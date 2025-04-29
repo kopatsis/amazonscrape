@@ -1,2 +1,3 @@
 # amazonscrape
-Basic content retrieval tool for Amazon listings using 
+Basic content retrieval tool for Amazon listings using Selenium.
+
